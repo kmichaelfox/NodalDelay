@@ -3,7 +3,7 @@
 __[K. Michael Fox](http://www.kmichaelfox.com) || [e-mail](mailto:kmichaelfox.contact@gmail.com)__
 
 ### Description
-This was a project commissioned by Nicholas Jon DeMaison, director of the Rensselaer Orchestra at Rensselaer Polytechnic Institute. The project was to generate a live electronic system to complement the orchestra's performance of Pauline Oliveros' piece, Four Meditations for Orchestra: Movement III - Interdependence.
+This was a project commissioned by Nicholas DeMaison, director of the Rensselaer Orchestra at Rensselaer Polytechnic Institute. The project was to generate a live electronic system to complement the orchestra's performance of Pauline Oliveros' piece, Four Meditations for Orchestra: Movement III - Interdependence.
 
 The electronics generated consisted of a generative node-based markov chain delay line which complemented the rhythmic dynamism and complexity of Oliveros' piece.
 
